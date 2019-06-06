@@ -4,7 +4,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.*;
 
-@DisplayName("JUnit 5 Nested Example")
 class MyNestedTest {   
     @Nested
     class ATests {
